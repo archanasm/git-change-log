@@ -1,4 +1,2 @@
-Testing Change logs
-Testing Change logs
 ABC
 DEF
