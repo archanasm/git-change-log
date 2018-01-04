@@ -1,0 +1,24 @@
+{
+  "name": "git-change-log",
+  "version": "1.0.0",
+  "description": "Compile change logs from git commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archanasm/git-change-log.git"
+  },
+  "keywords": [
+    "git",
+    "changelogs",
+    "commits"
+  ],
+  "author": "Archana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archanasm/git-change-log/issues"
+  },
+  "homepage": "https://github.com/archanasm/git-change-log#readme"
+}
